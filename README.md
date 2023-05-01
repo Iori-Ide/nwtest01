@@ -4,7 +4,6 @@
  - one
  - two
  - thr
- - for
  - sfive
  - six
  - sev
